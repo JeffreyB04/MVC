@@ -1,0 +1,4 @@
+model implementa observer y tenga commit
+clase controller que tenga referencia ambas "amarradas"
+view tiene referencias a ambas
+
